@@ -38,4 +38,6 @@ public class PlayerController : NetworkBehaviour {
     {
         GetComponent<MeshRenderer>().material.color = Color.blue;
     }
+
+    
 }
